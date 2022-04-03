@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://github.com/FabriciosViana">
-  <img height="170em" width:"170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriciosViana&layout=&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriciosViana&layout=&langs_count=7&theme=dark"/>
 </div>
   
 
