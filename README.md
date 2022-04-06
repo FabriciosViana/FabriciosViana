@@ -11,7 +11,7 @@
   <p>
     Sou Desenvolvedor, apaixonado por tecnologia, com experiência no desenvolvimento de plataformas 
     Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
-    modernos e adaptáveis (Experiência com :Bootstrap, HTML5, CSS3, JavaScript, Python), 
+    modernos e escaláveis (Experiência com :Bootstrap, HTML5, CSS3, JavaScript, Python, Django, React, SASS), 
     possuindo também alguns pequenos projetos pessoais utilizando, arduino, esp32 etc.
   </p>
 </div>
