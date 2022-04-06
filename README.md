@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=AC080C&background=FFFFFF00&center=true&vCenter=true&lines=Desenvolvedor+Web;Foco+na+Experi%C3%AAncia+UI%2FUX;Sempre+aprendendo+coisas+novas">
 </p>
 
-### Desenvolvedor Web e Intusiasta Maker! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Desenvolvedor Full Stack e Intusiasta Maker! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ## 👨 Um pouquinho sobre mim:
 <div>
