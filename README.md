@@ -35,7 +35,7 @@
     <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
     <img align="center" alt"PostgreSQL" height="40" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
     <img align="center" alt"GIT"  height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img align="center" alt"GITHUB" height="40" width="40" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+    <img align="center" alt"GITHUB" height="40" width="40" src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png"/>
 
   </div>
   
