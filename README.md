@@ -17,7 +17,7 @@
    <div><br>
     <h2 align="center">Frameworks / Ferramentas 🚀</h2>
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="spring-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg">
+    <img align="center" height="30" width="40" alt="spring-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     <img align="center" height="30" width="40" alt="django-icon" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
     <img align="center" height="30" width="40" alt="sass-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" height="30" width="40" alt="php-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
