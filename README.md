@@ -1,4 +1,4 @@
-## Bem vindo, Fabricio Aqui :wave:!
+## Bem vindo, Fabricio Aqui :wave: !
 
 <br>
 
