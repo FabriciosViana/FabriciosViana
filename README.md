@@ -22,6 +22,8 @@
     <img align="center" height="30" width="40" alt="sass-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" height="30" width="40" alt="php-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
    </div>
+   
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=FabriciossViana&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
  
     
   
